@@ -1,0 +1,17 @@
+PODS:
+  - CDAUtils (0.1.0)
+  - Kiwi (2.3.1)
+
+DEPENDENCIES:
+  - CDAUtils (from `../`)
+  - Kiwi
+
+EXTERNAL SOURCES:
+  CDAUtils:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CDAUtils: 6f7dd2d183b7122a9aab26f5902e05ad8c2e3e4b
+  Kiwi: f038a6c61f7a9e4d7766bff5717aa3b3fdb75f55
+
+COCOAPODS: 0.37.2
