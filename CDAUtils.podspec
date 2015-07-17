@@ -9,7 +9,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "CDAUtils"
-  s.version          = "0.1.0"
+  s.version          = "0.1.1"
   s.summary          = "General Utils for iOS"
   s.description      = <<-DESC
                       A collection of utilities for the day to day iOS development
