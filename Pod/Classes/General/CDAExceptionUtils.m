@@ -1,9 +1,6 @@
 //
-//  MBXExceptionUtils.m
-//  sven-10
-//
-//  Created by Tamara Bernad on 27/06/15.
-//  Copyright (c) 2015 moodbox. All rights reserved.
+//  Created by Tamara Bernad on 15/06/15.
+//  Copyright (c) 2015 Code d'Azur. All rights reserved.
 //
 
 #import "CDAExceptionUtils.h"
