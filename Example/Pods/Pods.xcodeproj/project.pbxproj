@@ -74,16 +74,6 @@
 		53A31492DA3C19311D347283 /* KWRegisterMatchersNode.h in Headers */ = {isa = PBXBuildFile; fileRef = 22052D9D6949E34A8ACA0726 /* KWRegisterMatchersNode.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		53D530C8A274DD0C7D6C6564 /* KWHaveMatcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 2EC3E56468551A395F5E338B /* KWHaveMatcher.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
 		552D652783DFBA2EEB89AFE6 /* Kiwi.h in Headers */ = {isa = PBXBuildFile; fileRef = 3284100011D6D23161CE9E4E /* Kiwi.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		565C7A7D1B724A6D00C8652E /* CDAScreenUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 565C7A7B1B724A6D00C8652E /* CDAScreenUtils.h */; };
-		565C7A7E1B724A6D00C8652E /* CDAScreenUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 565C7A7B1B724A6D00C8652E /* CDAScreenUtils.h */; };
-		565C7A7F1B724A6D00C8652E /* CDAScreenUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 565C7A7B1B724A6D00C8652E /* CDAScreenUtils.h */; };
-		565C7A801B724A6D00C8652E /* CDAScreenUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 565C7A7B1B724A6D00C8652E /* CDAScreenUtils.h */; };
-		565C7A811B724A6D00C8652E /* CDAScreenUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 565C7A7B1B724A6D00C8652E /* CDAScreenUtils.h */; };
-		565C7A821B724A6D00C8652E /* CDAScreenUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 565C7A7C1B724A6D00C8652E /* CDAScreenUtils.m */; };
-		565C7A831B724A6D00C8652E /* CDAScreenUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 565C7A7C1B724A6D00C8652E /* CDAScreenUtils.m */; };
-		565C7A841B724A6D00C8652E /* CDAScreenUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 565C7A7C1B724A6D00C8652E /* CDAScreenUtils.m */; };
-		565C7A851B724A6D00C8652E /* CDAScreenUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 565C7A7C1B724A6D00C8652E /* CDAScreenUtils.m */; };
-		565C7A861B724A6D00C8652E /* CDAScreenUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 565C7A7C1B724A6D00C8652E /* CDAScreenUtils.m */; };
 		565C7A881B724C6B00C8652E /* CDADeviceUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 565C7A871B724C6B00C8652E /* CDADeviceUtils.h */; };
 		565C7A891B724C6B00C8652E /* CDADeviceUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 565C7A871B724C6B00C8652E /* CDADeviceUtils.h */; };
 		565C7A8A1B724C6B00C8652E /* CDADeviceUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 565C7A871B724C6B00C8652E /* CDADeviceUtils.h */; };
@@ -382,8 +372,6 @@
 		546A264A9EBA2EE3BD88779F /* Pods-CDAUtils_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CDAUtils_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		54F47846687B0C85E3DD46DD /* KWBeforeEachNode.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KWBeforeEachNode.h; path = Classes/Nodes/KWBeforeEachNode.h; sourceTree = "<group>"; };
 		55307DE91FB3AA04684FE1A3 /* KWExampleNodeVisitor.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KWExampleNodeVisitor.h; path = Classes/Core/KWExampleNodeVisitor.h; sourceTree = "<group>"; };
-		565C7A7B1B724A6D00C8652E /* CDAScreenUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CDAScreenUtils.h; sourceTree = "<group>"; };
-		565C7A7C1B724A6D00C8652E /* CDAScreenUtils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CDAScreenUtils.m; sourceTree = "<group>"; };
 		565C7A871B724C6B00C8652E /* CDADeviceUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CDADeviceUtils.h; sourceTree = "<group>"; };
 		565C7A8D1B724CED00C8652E /* CDANumberUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CDANumberUtils.h; sourceTree = "<group>"; };
 		565C7A8E1B724CED00C8652E /* CDANumberUtils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CDANumberUtils.m; sourceTree = "<group>"; };
@@ -693,8 +681,6 @@
 				565C7AA71B7253B800C8652E /* CDAImageUtils.m */,
 				565C7A8D1B724CED00C8652E /* CDANumberUtils.h */,
 				565C7A8E1B724CED00C8652E /* CDANumberUtils.m */,
-				565C7A7B1B724A6D00C8652E /* CDAScreenUtils.h */,
-				565C7A7C1B724A6D00C8652E /* CDAScreenUtils.m */,
 			);
 			path = General;
 			sourceTree = "<group>";
@@ -988,7 +974,6 @@
 				62B543DDCEA95F281B5BE039 /* Pods-CDAUtils_Example-umbrella.h in Headers */,
 				565C7A8F1B724CED00C8652E /* CDANumberUtils.h in Headers */,
 				565C7AA81B7253B800C8652E /* CDAImageUtils.h in Headers */,
-				565C7A7D1B724A6D00C8652E /* CDAScreenUtils.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1081,7 +1066,6 @@
 				726930501F485F5A14E7D2E2 /* KWUserDefinedMatcher.h in Headers */,
 				4610540E2B97BAF479808140 /* KWValue.h in Headers */,
 				BBAF46E81FE2E9211F42CD6A /* KWVerifying.h in Headers */,
-				565C7A811B724A6D00C8652E /* CDAScreenUtils.h in Headers */,
 				28869266C7D38EE336FAB510 /* KWWorkarounds.h in Headers */,
 				552D652783DFBA2EEB89AFE6 /* Kiwi.h in Headers */,
 				18BC633871D7F8FA0FD4E1BA /* KiwiBlockMacros.h in Headers */,
@@ -1112,7 +1096,6 @@
 				9146F38144936A0551804C73 /* Pods-CDAUtils_Tests-umbrella.h in Headers */,
 				565C7A911B724CED00C8652E /* CDANumberUtils.h in Headers */,
 				565C7AAA1B7253B800C8652E /* CDAImageUtils.h in Headers */,
-				565C7A7F1B724A6D00C8652E /* CDAScreenUtils.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1126,7 +1109,6 @@
 				0181AB0E072F7F828D0C6583 /* Pods-CDAUtils_Example-CDAUtils-umbrella.h in Headers */,
 				565C7A901B724CED00C8652E /* CDANumberUtils.h in Headers */,
 				565C7AA91B7253B800C8652E /* CDAImageUtils.h in Headers */,
-				565C7A7E1B724A6D00C8652E /* CDAScreenUtils.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1140,7 +1122,6 @@
 				1ABC142AA41BC58A513A6DB0 /* Pods-CDAUtils_Tests-CDAUtils-umbrella.h in Headers */,
 				565C7A921B724CED00C8652E /* CDANumberUtils.h in Headers */,
 				565C7AAB1B7253B800C8652E /* CDAImageUtils.h in Headers */,
-				565C7A801B724A6D00C8652E /* CDAScreenUtils.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1343,7 +1324,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				565C7A971B724CED00C8652E /* CDANumberUtils.m in Sources */,
-				565C7A851B724A6D00C8652E /* CDAScreenUtils.m in Sources */,
 				565C7AB01B7253B800C8652E /* CDAImageUtils.m in Sources */,
 				637893A5982CFFF687B11E67 /* Pods-CDAUtils_Tests-CDAUtils-dummy.m in Sources */,
 				565C7AA31B724EE100C8652E /* CDAFileUtils.m in Sources */,
@@ -1363,7 +1343,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				565C7A941B724CED00C8652E /* CDANumberUtils.m in Sources */,
-				565C7A821B724A6D00C8652E /* CDAScreenUtils.m in Sources */,
 				565C7AAD1B7253B800C8652E /* CDAImageUtils.m in Sources */,
 				215A1EE1744C9C1FB5B21D17 /* Pods-CDAUtils_Example-dummy.m in Sources */,
 				565C7AA01B724EE100C8652E /* CDAFileUtils.m in Sources */,
@@ -1376,7 +1355,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				565C7A951B724CED00C8652E /* CDANumberUtils.m in Sources */,
-				565C7A831B724A6D00C8652E /* CDAScreenUtils.m in Sources */,
 				565C7AAE1B7253B800C8652E /* CDAImageUtils.m in Sources */,
 				ACF926E50617C95D82F6677B /* Pods-CDAUtils_Example-CDAUtils-dummy.m in Sources */,
 				565C7AA11B724EE100C8652E /* CDAFileUtils.m in Sources */,
@@ -1389,7 +1367,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				565C7A961B724CED00C8652E /* CDANumberUtils.m in Sources */,
-				565C7A841B724A6D00C8652E /* CDAScreenUtils.m in Sources */,
 				565C7AAF1B7253B800C8652E /* CDAImageUtils.m in Sources */,
 				A0898A1CFB7C312CDFB39A76 /* Pods-CDAUtils_Tests-dummy.m in Sources */,
 				565C7AA21B724EE100C8652E /* CDAFileUtils.m in Sources */,
@@ -1429,7 +1406,6 @@
 				8927EBAC3EB06E72EB25A5BA /* KWConformToProtocolMatcher.m in Sources */,
 				DCB6D843D1D284C890048EC3 /* KWContainMatcher.m in Sources */,
 				46E6FD6B3037AE916DDA1919 /* KWContainStringMatcher.m in Sources */,
-				565C7A861B724A6D00C8652E /* CDAScreenUtils.m in Sources */,
 				826F6256AB3DCFB65BA3D365 /* KWContextNode.m in Sources */,
 				73C15B63CC37227ED94A151D /* KWDeviceInfo.m in Sources */,
 				BFFCF21E198CA0196F918407 /* KWEqualMatcher.m in Sources */,

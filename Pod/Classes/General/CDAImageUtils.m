@@ -25,7 +25,7 @@
 }
 
 + (UIImage *) imagePixelWithColor:(UIColor *)color {
-    return [CDAImageUtils imageWithColor:color AndSize:CGSizeMake(1.0f, 1.0f)];
+    return [CDAImageUtils imageWithColor:color andSize:CGSizeMake(1.0f, 1.0f)];
 }
 
 + (UIImage *)decompressedJPGImageWithPath:(NSString *)path {

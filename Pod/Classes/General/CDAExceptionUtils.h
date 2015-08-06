@@ -25,5 +25,10 @@
 #import <Foundation/Foundation.h>
 
 @interface CDAExceptionUtils : NSObject
+/**
+ Use this method to raise an exception when an empty superclass method needs to be overwritten in its subclasses.
+ @param methodName
+ Name of the method which needs to be overwritten.
+*/
 + (void)throwOverrideExceptionWithMethodName:(NSString *)methodName;
 @end
