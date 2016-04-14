@@ -74,6 +74,41 @@
 		53A31492DA3C19311D347283 /* KWRegisterMatchersNode.h in Headers */ = {isa = PBXBuildFile; fileRef = 22052D9D6949E34A8ACA0726 /* KWRegisterMatchersNode.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		53D530C8A274DD0C7D6C6564 /* KWHaveMatcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 2EC3E56468551A395F5E338B /* KWHaveMatcher.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
 		552D652783DFBA2EEB89AFE6 /* Kiwi.h in Headers */ = {isa = PBXBuildFile; fileRef = 3284100011D6D23161CE9E4E /* Kiwi.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		565C7A881B724C6B00C8652E /* CDADeviceUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 565C7A871B724C6B00C8652E /* CDADeviceUtils.h */; };
+		565C7A891B724C6B00C8652E /* CDADeviceUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 565C7A871B724C6B00C8652E /* CDADeviceUtils.h */; };
+		565C7A8A1B724C6B00C8652E /* CDADeviceUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 565C7A871B724C6B00C8652E /* CDADeviceUtils.h */; };
+		565C7A8B1B724C6B00C8652E /* CDADeviceUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 565C7A871B724C6B00C8652E /* CDADeviceUtils.h */; };
+		565C7A8C1B724C6B00C8652E /* CDADeviceUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 565C7A871B724C6B00C8652E /* CDADeviceUtils.h */; };
+		565C7A8F1B724CED00C8652E /* CDANumberUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 565C7A8D1B724CED00C8652E /* CDANumberUtils.h */; };
+		565C7A901B724CED00C8652E /* CDANumberUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 565C7A8D1B724CED00C8652E /* CDANumberUtils.h */; };
+		565C7A911B724CED00C8652E /* CDANumberUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 565C7A8D1B724CED00C8652E /* CDANumberUtils.h */; };
+		565C7A921B724CED00C8652E /* CDANumberUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 565C7A8D1B724CED00C8652E /* CDANumberUtils.h */; };
+		565C7A931B724CED00C8652E /* CDANumberUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 565C7A8D1B724CED00C8652E /* CDANumberUtils.h */; };
+		565C7A941B724CED00C8652E /* CDANumberUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 565C7A8E1B724CED00C8652E /* CDANumberUtils.m */; };
+		565C7A951B724CED00C8652E /* CDANumberUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 565C7A8E1B724CED00C8652E /* CDANumberUtils.m */; };
+		565C7A961B724CED00C8652E /* CDANumberUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 565C7A8E1B724CED00C8652E /* CDANumberUtils.m */; };
+		565C7A971B724CED00C8652E /* CDANumberUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 565C7A8E1B724CED00C8652E /* CDANumberUtils.m */; };
+		565C7A981B724CED00C8652E /* CDANumberUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 565C7A8E1B724CED00C8652E /* CDANumberUtils.m */; };
+		565C7A9B1B724EE100C8652E /* CDAFileUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 565C7A991B724EE100C8652E /* CDAFileUtils.h */; };
+		565C7A9C1B724EE100C8652E /* CDAFileUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 565C7A991B724EE100C8652E /* CDAFileUtils.h */; };
+		565C7A9D1B724EE100C8652E /* CDAFileUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 565C7A991B724EE100C8652E /* CDAFileUtils.h */; };
+		565C7A9E1B724EE100C8652E /* CDAFileUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 565C7A991B724EE100C8652E /* CDAFileUtils.h */; };
+		565C7A9F1B724EE100C8652E /* CDAFileUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 565C7A991B724EE100C8652E /* CDAFileUtils.h */; };
+		565C7AA01B724EE100C8652E /* CDAFileUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 565C7A9A1B724EE100C8652E /* CDAFileUtils.m */; };
+		565C7AA11B724EE100C8652E /* CDAFileUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 565C7A9A1B724EE100C8652E /* CDAFileUtils.m */; };
+		565C7AA21B724EE100C8652E /* CDAFileUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 565C7A9A1B724EE100C8652E /* CDAFileUtils.m */; };
+		565C7AA31B724EE100C8652E /* CDAFileUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 565C7A9A1B724EE100C8652E /* CDAFileUtils.m */; };
+		565C7AA41B724EE100C8652E /* CDAFileUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 565C7A9A1B724EE100C8652E /* CDAFileUtils.m */; };
+		565C7AA81B7253B800C8652E /* CDAImageUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 565C7AA61B7253B800C8652E /* CDAImageUtils.h */; };
+		565C7AA91B7253B800C8652E /* CDAImageUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 565C7AA61B7253B800C8652E /* CDAImageUtils.h */; };
+		565C7AAA1B7253B800C8652E /* CDAImageUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 565C7AA61B7253B800C8652E /* CDAImageUtils.h */; };
+		565C7AAB1B7253B800C8652E /* CDAImageUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 565C7AA61B7253B800C8652E /* CDAImageUtils.h */; };
+		565C7AAC1B7253B800C8652E /* CDAImageUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 565C7AA61B7253B800C8652E /* CDAImageUtils.h */; };
+		565C7AAD1B7253B800C8652E /* CDAImageUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 565C7AA71B7253B800C8652E /* CDAImageUtils.m */; };
+		565C7AAE1B7253B800C8652E /* CDAImageUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 565C7AA71B7253B800C8652E /* CDAImageUtils.m */; };
+		565C7AAF1B7253B800C8652E /* CDAImageUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 565C7AA71B7253B800C8652E /* CDAImageUtils.m */; };
+		565C7AB01B7253B800C8652E /* CDAImageUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 565C7AA71B7253B800C8652E /* CDAImageUtils.m */; };
+		565C7AB11B7253B800C8652E /* CDAImageUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 565C7AA71B7253B800C8652E /* CDAImageUtils.m */; };
 		57F3FD30A2E267F7770EBAA6 /* KWContainMatcher.h in Headers */ = {isa = PBXBuildFile; fileRef = 7FFB97EF5C93AE728E80B8B1 /* KWContainMatcher.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		5979D78B1AFDED5BE76DA5A5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 073DAE658A55A28514B10808 /* Foundation.framework */; };
 		598871DDDDB0F571EF3EF6A7 /* CDAUtils.bundle in Resources */ = {isa = PBXBuildFile; fileRef = EDDF9089CA4F909D41D03BCF /* CDAUtils.bundle */; };
@@ -337,6 +372,13 @@
 		546A264A9EBA2EE3BD88779F /* Pods-CDAUtils_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CDAUtils_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		54F47846687B0C85E3DD46DD /* KWBeforeEachNode.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KWBeforeEachNode.h; path = Classes/Nodes/KWBeforeEachNode.h; sourceTree = "<group>"; };
 		55307DE91FB3AA04684FE1A3 /* KWExampleNodeVisitor.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KWExampleNodeVisitor.h; path = Classes/Core/KWExampleNodeVisitor.h; sourceTree = "<group>"; };
+		565C7A871B724C6B00C8652E /* CDADeviceUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CDADeviceUtils.h; sourceTree = "<group>"; };
+		565C7A8D1B724CED00C8652E /* CDANumberUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CDANumberUtils.h; sourceTree = "<group>"; };
+		565C7A8E1B724CED00C8652E /* CDANumberUtils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CDANumberUtils.m; sourceTree = "<group>"; };
+		565C7A991B724EE100C8652E /* CDAFileUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CDAFileUtils.h; sourceTree = "<group>"; };
+		565C7A9A1B724EE100C8652E /* CDAFileUtils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CDAFileUtils.m; sourceTree = "<group>"; };
+		565C7AA61B7253B800C8652E /* CDAImageUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CDAImageUtils.h; sourceTree = "<group>"; };
+		565C7AA71B7253B800C8652E /* CDAImageUtils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CDAImageUtils.m; sourceTree = "<group>"; };
 		573764EC686E794A765F2B5D /* KWStringContainsMatcher.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KWStringContainsMatcher.h; path = Classes/Matchers/KWStringContainsMatcher.h; sourceTree = "<group>"; };
 		5995DBFC664F7E61134A8530 /* KWNilMatcher.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = KWNilMatcher.m; path = Classes/Matchers/KWNilMatcher.m; sourceTree = "<group>"; };
 		5C1FC66A355C49D1B2747DE9 /* KWNotificationMatcher.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KWNotificationMatcher.h; path = Classes/Matchers/KWNotificationMatcher.h; sourceTree = "<group>"; };
@@ -630,8 +672,15 @@
 		63B8F07B1B59264400153B02 /* General */ = {
 			isa = PBXGroup;
 			children = (
+				565C7A871B724C6B00C8652E /* CDADeviceUtils.h */,
 				63B8F07C1B59264400153B02 /* CDAExceptionUtils.h */,
 				63B8F07D1B59264400153B02 /* CDAExceptionUtils.m */,
+				565C7A991B724EE100C8652E /* CDAFileUtils.h */,
+				565C7A9A1B724EE100C8652E /* CDAFileUtils.m */,
+				565C7AA61B7253B800C8652E /* CDAImageUtils.h */,
+				565C7AA71B7253B800C8652E /* CDAImageUtils.m */,
+				565C7A8D1B724CED00C8652E /* CDANumberUtils.h */,
+				565C7A8E1B724CED00C8652E /* CDANumberUtils.m */,
 			);
 			path = General;
 			sourceTree = "<group>";
@@ -919,8 +968,12 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				565C7A9B1B724EE100C8652E /* CDAFileUtils.h in Headers */,
+				565C7A881B724C6B00C8652E /* CDADeviceUtils.h in Headers */,
 				63B8F07E1B59264400153B02 /* CDAExceptionUtils.h in Headers */,
 				62B543DDCEA95F281B5BE039 /* Pods-CDAUtils_Example-umbrella.h in Headers */,
+				565C7A8F1B724CED00C8652E /* CDANumberUtils.h in Headers */,
+				565C7AA81B7253B800C8652E /* CDAImageUtils.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -933,6 +986,7 @@
 				C4EE91EA57EF59CD3156FA91 /* KWAny.h in Headers */,
 				89693C3BCC36CB28F038BC17 /* KWAsyncVerifier.h in Headers */,
 				3C10E7A302E4E68AF348E54E /* KWBeBetweenMatcher.h in Headers */,
+				565C7AAC1B7253B800C8652E /* CDAImageUtils.h in Headers */,
 				DD5A60E9CD86B0BF73E405EB /* KWBeEmptyMatcher.h in Headers */,
 				AF956A4833E0E293F43077AE /* KWBeIdenticalToMatcher.h in Headers */,
 				6B3A5DB9FF43842DF3D1172F /* KWBeKindOfClassMatcher.h in Headers */,
@@ -944,6 +998,7 @@
 				04A710FC8ACB0796036CEEAC /* KWBeforeAllNode.h in Headers */,
 				FE5190C2B826E30B70225529 /* KWBeforeEachNode.h in Headers */,
 				ABF8A11A4ED3D92CD5EC4987 /* KWBlock.h in Headers */,
+				565C7A931B724CED00C8652E /* CDANumberUtils.h in Headers */,
 				B7AD5D42E963EF7C0456C0C2 /* KWBlockNode.h in Headers */,
 				5DB50E0346E2BD34BF3A7D17 /* KWBlockRaiseMatcher.h in Headers */,
 				723A29A2FCB5EB1D8536935A /* KWCallSite.h in Headers */,
@@ -962,6 +1017,7 @@
 				A3880E93B35A5BAB6317D699 /* KWExampleNodeVisitor.h in Headers */,
 				B085EF384F5D6739F2532286 /* KWExampleSuite.h in Headers */,
 				4451943B815C2DC5A9FDEA85 /* KWExampleSuiteBuilder.h in Headers */,
+				565C7A9F1B724EE100C8652E /* CDAFileUtils.h in Headers */,
 				DFDBB636D3DF299C88A7E709 /* KWExistVerifier.h in Headers */,
 				F29ACC28A315CA3A718D94C2 /* KWExpectationType.h in Headers */,
 				A94E51BF20E694CE5C238482 /* KWFailure.h in Headers */,
@@ -1017,6 +1073,7 @@
 				31C57EF483EC981E66BBF24C /* KiwiMacros.h in Headers */,
 				27ECE56CD4F41FE7579E1CD4 /* NSInvocation+KiwiAdditions.h in Headers */,
 				40F84636DA76B9BB8B4E898F /* NSInvocation+OCMAdditions.h in Headers */,
+				565C7A8C1B724C6B00C8652E /* CDADeviceUtils.h in Headers */,
 				62C959072B27676C00521626 /* NSMethodSignature+KiwiAdditions.h in Headers */,
 				4D06344E6A9EFE6FEEACDABE /* NSNumber+KiwiAdditions.h in Headers */,
 				4D3043B4A37B253109BA502E /* NSObject+KiwiMockAdditions.h in Headers */,
@@ -1033,8 +1090,12 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				565C7A9D1B724EE100C8652E /* CDAFileUtils.h in Headers */,
+				565C7A8A1B724C6B00C8652E /* CDADeviceUtils.h in Headers */,
 				63B8F0801B59264400153B02 /* CDAExceptionUtils.h in Headers */,
 				9146F38144936A0551804C73 /* Pods-CDAUtils_Tests-umbrella.h in Headers */,
+				565C7A911B724CED00C8652E /* CDANumberUtils.h in Headers */,
+				565C7AAA1B7253B800C8652E /* CDAImageUtils.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1042,8 +1103,12 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				565C7A9C1B724EE100C8652E /* CDAFileUtils.h in Headers */,
+				565C7A891B724C6B00C8652E /* CDADeviceUtils.h in Headers */,
 				63B8F07F1B59264400153B02 /* CDAExceptionUtils.h in Headers */,
 				0181AB0E072F7F828D0C6583 /* Pods-CDAUtils_Example-CDAUtils-umbrella.h in Headers */,
+				565C7A901B724CED00C8652E /* CDANumberUtils.h in Headers */,
+				565C7AA91B7253B800C8652E /* CDAImageUtils.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1051,8 +1116,12 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				565C7A9E1B724EE100C8652E /* CDAFileUtils.h in Headers */,
+				565C7A8B1B724C6B00C8652E /* CDADeviceUtils.h in Headers */,
 				63B8F0811B59264400153B02 /* CDAExceptionUtils.h in Headers */,
 				1ABC142AA41BC58A513A6DB0 /* Pods-CDAUtils_Tests-CDAUtils-umbrella.h in Headers */,
+				565C7A921B724CED00C8652E /* CDANumberUtils.h in Headers */,
+				565C7AAB1B7253B800C8652E /* CDAImageUtils.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1254,7 +1323,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				565C7A971B724CED00C8652E /* CDANumberUtils.m in Sources */,
+				565C7AB01B7253B800C8652E /* CDAImageUtils.m in Sources */,
 				637893A5982CFFF687B11E67 /* Pods-CDAUtils_Tests-CDAUtils-dummy.m in Sources */,
+				565C7AA31B724EE100C8652E /* CDAFileUtils.m in Sources */,
 				63B8F0861B59264400153B02 /* CDAExceptionUtils.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -1270,7 +1342,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				565C7A941B724CED00C8652E /* CDANumberUtils.m in Sources */,
+				565C7AAD1B7253B800C8652E /* CDAImageUtils.m in Sources */,
 				215A1EE1744C9C1FB5B21D17 /* Pods-CDAUtils_Example-dummy.m in Sources */,
+				565C7AA01B724EE100C8652E /* CDAFileUtils.m in Sources */,
 				63B8F0831B59264400153B02 /* CDAExceptionUtils.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -1279,7 +1354,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				565C7A951B724CED00C8652E /* CDANumberUtils.m in Sources */,
+				565C7AAE1B7253B800C8652E /* CDAImageUtils.m in Sources */,
 				ACF926E50617C95D82F6677B /* Pods-CDAUtils_Example-CDAUtils-dummy.m in Sources */,
+				565C7AA11B724EE100C8652E /* CDAFileUtils.m in Sources */,
 				63B8F0841B59264400153B02 /* CDAExceptionUtils.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -1288,7 +1366,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				565C7A961B724CED00C8652E /* CDANumberUtils.m in Sources */,
+				565C7AAF1B7253B800C8652E /* CDAImageUtils.m in Sources */,
 				A0898A1CFB7C312CDFB39A76 /* Pods-CDAUtils_Tests-dummy.m in Sources */,
+				565C7AA21B724EE100C8652E /* CDAFileUtils.m in Sources */,
 				63B8F0851B59264400153B02 /* CDAExceptionUtils.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -1311,6 +1392,7 @@
 				E27F7A544BA7C7264F9E02DE /* KWBeTrueMatcher.m in Sources */,
 				3CAD0D75367737EDC951DA81 /* KWBeWithinMatcher.m in Sources */,
 				7D5533F66A7BF3D5E0710013 /* KWBeZeroMatcher.m in Sources */,
+				565C7A981B724CED00C8652E /* CDANumberUtils.m in Sources */,
 				833E142A37E36D2E207D9756 /* KWBeforeAllNode.m in Sources */,
 				4A8A81F586953DA40A72CBB5 /* KWBeforeEachNode.m in Sources */,
 				538DA0B34899CD4AF6573F1B /* KWBlock.m in Sources */,
@@ -1318,6 +1400,7 @@
 				D8457B1044D4AC1A909C2DD2 /* KWBlockRaiseMatcher.m in Sources */,
 				C33295AC52CA6D7650C6A119 /* KWCallSite.m in Sources */,
 				20EA31E7FF3E9C6E5505D81E /* KWCaptureSpy.m in Sources */,
+				565C7AB11B7253B800C8652E /* CDAImageUtils.m in Sources */,
 				63B8F0871B59264400153B02 /* CDAExceptionUtils.m in Sources */,
 				6FAE91F6652E2036CE08CF40 /* KWChangeMatcher.m in Sources */,
 				8927EBAC3EB06E72EB25A5BA /* KWConformToProtocolMatcher.m in Sources */,
@@ -1368,6 +1451,7 @@
 				9C64197C5817715EE0811A36 /* KWSuiteConfigurationBase.m in Sources */,
 				6F2BE6C5FED2552E7EF958BF /* KWSymbolicator.m in Sources */,
 				B0FC3FE2D39A7DEB2354FF43 /* KWUserDefinedMatcher.m in Sources */,
+				565C7AA41B724EE100C8652E /* CDAFileUtils.m in Sources */,
 				B454DDB25D0DDA410846EB37 /* KWValue.m in Sources */,
 				480BE4D0D4C0B639ACBFEB20 /* KWWorkarounds.m in Sources */,
 				78C35C7877C38695A1581093 /* NSInvocation+KiwiAdditions.m in Sources */,
